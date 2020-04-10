@@ -1,0 +1,16 @@
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\AnaliseSentimentos.exe
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\obj\Debug\netcoreapp3.0\AnaliseSentimentos.csprojAssemblyReference.cache
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\obj\Debug\netcoreapp3.0\AnaliseSentimentos.AssemblyInfoInputs.cache
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\obj\Debug\netcoreapp3.0\AnaliseSentimentos.AssemblyInfo.cs
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\AnaliseSentimentos.deps.json
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\AnaliseSentimentos.runtimeconfig.json
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\AnaliseSentimentos.runtimeconfig.dev.json
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\AnaliseSentimentos.dll
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\AnaliseSentimentos.pdb
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\obj\Debug\netcoreapp3.0\AnaliseSentimentos.csproj.CopyComplete
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\obj\Debug\netcoreapp3.0\AnaliseSentimentos.dll
+C:\Users\AndréGomesSantos\Downloads\TextAnalytics\TextAnalytics\AnaliseSentimentos\obj\Debug\netcoreapp3.0\AnaliseSentimentos.pdb
